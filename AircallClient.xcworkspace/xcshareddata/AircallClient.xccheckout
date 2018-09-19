@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1BFA706E-0A2C-4AEA-847C-8B208A0A474E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AircallClient</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECB2C932C4AFDCA30F1BEBC8D5E559213EA5491F</key>
+		<string>https://bitbucket.org/aircall_mmh/aircall-client.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AircallClient.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECB2C932C4AFDCA30F1BEBC8D5E559213EA5491F</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/aircall_mmh/aircall-client.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECB2C932C4AFDCA30F1BEBC8D5E559213EA5491F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECB2C932C4AFDCA30F1BEBC8D5E559213EA5491F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AirCallClient</string>
+		</dict>
+	</array>
+</dict>
+</plist>
